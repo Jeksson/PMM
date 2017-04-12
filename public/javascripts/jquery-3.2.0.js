@@ -8774,7 +8774,7 @@ jQuery.extend( {
 		global: true,
 		processData: true,
 		async: true,
-		contentType: "application/x-www-form-urlencoded; charset=UTF-8",
+		contentType: "application/x-www.js-form-urlencoded; charset=UTF-8",
 
 		/*
 		timeout: 0,
@@ -9084,7 +9084,7 @@ jQuery.extend( {
 
 		// Change '%20' to '+' if this is encoded form body content (gh-2658)
 		} else if ( s.data && s.processData &&
-			( s.contentType || "" ).indexOf( "application/x-www-form-urlencoded" ) === 0 ) {
+			( s.contentType || "" ).indexOf( "application/x-www.js-form-urlencoded" ) === 0 ) {
 			s.data = s.data.replace( r20, "+" );
 		}
 
@@ -9668,7 +9668,7 @@ jQuery.ajaxPrefilter( "json jsonp", function( s, originalSettings, jqXHR ) {
 			"url" :
 			typeof s.data === "string" &&
 				( s.contentType || "" )
-					.indexOf( "application/x-www-form-urlencoded" ) === 0 &&
+					.indexOf( "application/x-www.js-form-urlencoded" ) === 0 &&
 				rjsonp.test( s.data ) && "data"
 		);
 
