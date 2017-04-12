@@ -1,9 +1,9 @@
 {
-  "name": "pmm",
+  "name": "PMM",
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www.js"
+    "start": "node ./bin/index.js"
   },
   "dependencies": {
     "babyparse": "^0.4.6",
