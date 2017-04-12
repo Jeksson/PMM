@@ -1,0 +1,94 @@
+doctype html
+html
+    head
+        title=title
+        link(href="stylesheets/bootstrap.min.css", rel="stylesheet")
+        link(href="stylesheets/my.css", rel="stylesheet")
+        script(src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML")
+
+    body
+        div(class="container-fluid")
+            div(class="row-fluid")
+                div(class="con col-md-3 col-sx-3")
+
+
+
+
+
+                div(class="col-md-9 col-sx-9")
+                    div(class="col-md-4 col-xs-4")
+
+                        input(class="search col-xs-6", type="text", placeholder="search")
+                        br
+
+                        select(multiple size="14", class="form-control mySelect")
+
+                        span(class="col-xs-12") Введите колличество ходок
+                        br
+                        input(class="kolHod col-xs-6", type="number")
+                    div(class="col-md-8 col-xs-8")
+                        div(class="row")
+                            div(class="checkbox")
+                                label(class="checkbox-inline")
+                                    input(type='checkbox' id='inlineCheckbox1' value='option1')
+                                    p 5%
+
+                                label(class="checkbox-inline")
+                                    input(type="checkbox", id="inlineCheckbox2", value="option2")
+                                    p 10%
+
+                                label(class="checkbox-inline")
+                                    input(type="checkbox",id="inlineCheckbox3", value="option3")
+                                    p 15%
+
+                                label(class="checkbox-inline")
+                                    input(type="checkbox", id="inlineCheckbox4", value="option4")
+                                    p отнять
+
+                                p(class="procent")
+                                    span(class="procent") 0 %
+
+
+
+                            div(class="col-md-4 col-xs-4")
+
+                                div(class="t")
+                                    span(class="col-xs-8") Расстояние:
+                                    br
+                                    span(class="rastSpan")
+                                    br
+                                    span(class="noAvto")
+                                    br
+                                    span(class="col-xs-8") Использовано:
+                                    br
+                                    span(class="ispSpan")
+
+                            div(class="col-md-4 col-xs-4 cool")
+                                div(class="t")
+                                    input(type="text", class="rast col-xs-8")
+                                    br
+
+                                    br
+                                    br
+                                    input(type="text", class="isp col-xs-8")
+
+                            div(class="col-md-4 col-xs-4 cool")
+                                div(class="buttons")
+                                    button(class="btn col-xs-6 btn-large btn-primary buttonLitr", type="button") литров
+                                    br
+                                    br
+                                    br
+                                    button(class="btn col-xs-6 btn-large btn-primary buttonKil", type="button") км.
+
+
+                            div(class="answer")
+                                strong.stron $${b * b \over 2a} + {a * b}=$$
+
+
+
+    <!--Body content-->
+
+
+    script(src="javascripts/jquery-3.2.0.js")
+    script(src="javascripts/bootstrap.min.js")
+    script(src="javascripts/my.js")
