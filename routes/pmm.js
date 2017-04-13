@@ -15,7 +15,7 @@ router.get('/', function (req, res, next) {
 
 router.get('/fs', function (req, res, next) {
     Papa.parse(content, {
-        delimiter: ":",
+        delimiter: ";",
         complete: function (results) {
             res.json(results.data);
             //console.log(results);

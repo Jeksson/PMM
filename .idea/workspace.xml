@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="119db28b-0b8f-41ce-976c-934220655416" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/pmm.js" afterPath="$PROJECT_DIR$/routes/pmm.js" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pmm.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pmm.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/pmm.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.33168316">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -76,10 +77,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pmm.jade" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pmm.jade" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/pmm.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.1707921">
+            <state vertical-scroll-proportion="0.0">
               <caret line="94" column="32" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
               <folding />
             </state>
@@ -130,12 +131,12 @@
       <list>
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/public/javascripts/Formul.js" />
-        <option value="$PROJECT_DIR$/routes/pmm.js" />
         <option value="$PROJECT_DIR$/public/stylesheets/my.css" />
         <option value="$PROJECT_DIR$/public/javascripts/my.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/public/javascripts/googl_analitics.js" />
         <option value="$PROJECT_DIR$/views/pmm.jade" />
+        <option value="$PROJECT_DIR$/routes/pmm.js" />
       </list>
     </option>
   </component>
@@ -786,7 +787,7 @@
       <workItem from="1491922926066" duration="2157000" />
       <workItem from="1491927891486" duration="729000" />
       <workItem from="1491987978476" duration="6348000" />
-      <workItem from="1492077667483" duration="1541000" />
+      <workItem from="1492077667483" duration="2164000" />
     </task>
     <task id="LOCAL-00001" summary="change app name">
       <created>1491989212633</created>
@@ -842,15 +843,21 @@
       <option name="project" value="LOCAL" />
       <updated>1492084674255</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="обновлен список авто + грузовые + автобусы">
+      <created>1492084720096</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1492084720096</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117907000" />
+    <option name="totallyTimeSpent" value="118530000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -860,7 +867,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4358578" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20681818" sideWeight="0.516129" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20681818" sideWeight="0.48387095" order="0" side_tool="false" content_ui="combo" />
@@ -1300,33 +1307,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/javascripts/my.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#40#0" expanded="false" />
-            <element signature="e#135#382#0" expanded="false" />
-            <element signature="e#430#711#0" expanded="false" />
-            <element signature="e#759#1040#0" expanded="false" />
-            <element signature="e#1088#1369#0" expanded="false" />
-            <element signature="e#1417#1698#0" expanded="false" />
-            <element signature="e#3927#4338#0" expanded="false" />
-            <element signature="n#!!block;n#procentPro#0" expanded="false" />
-            <element signature="n#!!block;n#kmOtvet#0" expanded="false" />
-            <element signature="n#!!block;n#litrOtvet#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/pmm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1383,8 +1363,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/pmm.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1707921">
+        <state vertical-scroll-proportion="0.0">
           <caret line="94" column="32" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/my.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+            <element signature="e#135#382#0" expanded="false" />
+            <element signature="e#430#711#0" expanded="false" />
+            <element signature="e#759#1040#0" expanded="false" />
+            <element signature="e#1088#1369#0" expanded="false" />
+            <element signature="e#1417#1698#0" expanded="false" />
+            <element signature="e#3927#4338#0" expanded="false" />
+            <element signature="n#!!block;n#procentPro#0" expanded="false" />
+            <element signature="n#!!block;n#kmOtvet#0" expanded="false" />
+            <element signature="n#!!block;n#litrOtvet#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/pmm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33168316">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
           <folding />
         </state>
       </provider>
