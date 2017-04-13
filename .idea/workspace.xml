@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="119db28b-0b8f-41ce-976c-934220655416" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/googl_analitics.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/pmm.jade" afterPath="$PROJECT_DIR$/views/pmm.jade" />
     </list>
@@ -82,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/views/pmm.jade">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="1.1707921">
-              <caret line="94" column="15" selection-start-line="94" selection-start-column="15" selection-end-line="94" selection-end-column="15" />
+              <caret line="94" column="32" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -136,8 +135,8 @@
         <option value="$PROJECT_DIR$/public/stylesheets/my.css" />
         <option value="$PROJECT_DIR$/public/javascripts/my.js" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/views/pmm.jade" />
         <option value="$PROJECT_DIR$/public/javascripts/googl_analitics.js" />
+        <option value="$PROJECT_DIR$/views/pmm.jade" />
       </list>
     </option>
   </component>
@@ -787,7 +786,7 @@
       <workItem from="1491922926066" duration="2157000" />
       <workItem from="1491927891486" duration="729000" />
       <workItem from="1491987978476" duration="6348000" />
-      <workItem from="1492077667483" duration="137000" />
+      <workItem from="1492077667483" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="change app name">
       <created>1491989212633</created>
@@ -825,11 +824,17 @@
       <option name="project" value="LOCAL" />
       <updated>1491998375521</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add google analitics">
+      <created>1492077830187</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1492077830187</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116503000" />
+    <option name="totallyTimeSpent" value="116668000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
@@ -837,6 +842,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4358578" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -857,7 +863,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28748068" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
@@ -875,7 +880,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change app name" />
-    <option name="LAST_COMMIT_MESSAGE" value="change app name" />
+    <MESSAGE value="add google analitics" />
+    <option name="LAST_COMMIT_MESSAGE" value="add google analitics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1365,7 +1371,7 @@
     <entry file="file://$PROJECT_DIR$/views/pmm.jade">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.1707921">
-          <caret line="94" column="15" selection-start-line="94" selection-start-column="15" selection-end-line="94" selection-end-column="15" />
+          <caret line="94" column="32" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
           <folding />
         </state>
       </provider>
