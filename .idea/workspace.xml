@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="119db28b-0b8f-41ce-976c-934220655416" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rasxod-topliva-avtomobilej.csv" afterPath="$PROJECT_DIR$/rasxod-topliva-avtomobilej.csv" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -787,7 +786,7 @@
       <workItem from="1491922926066" duration="2157000" />
       <workItem from="1491927891486" duration="729000" />
       <workItem from="1491987978476" duration="6348000" />
-      <workItem from="1492077667483" duration="1463000" />
+      <workItem from="1492077667483" duration="1541000" />
     </task>
     <task id="LOCAL-00001" summary="change app name">
       <created>1491989212633</created>
@@ -837,11 +836,17 @@
       <option name="project" value="LOCAL" />
       <updated>1492077976691</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="обновлен список авто + грузовые + автобусы">
+      <created>1492084674255</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1492084674255</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117829000" />
+    <option name="totallyTimeSpent" value="117907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
@@ -888,7 +893,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change app name" />
     <MESSAGE value="add google analitics" />
-    <option name="LAST_COMMIT_MESSAGE" value="add google analitics" />
+    <MESSAGE value="обновлен список авто + грузовые + автобусы" />
+    <option name="LAST_COMMIT_MESSAGE" value="обновлен список авто + грузовые + автобусы" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
